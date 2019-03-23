@@ -92,4 +92,7 @@ export PATH=$PATH:/usr/local/go/bin
 export GOPATH=~/code/nats
 export DISPLAY=:0.0
 
-
+alias kat=/bin/cat
+alias cat=bat
+alias j=z.sh
+alias pping=prettyping.sh

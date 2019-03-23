@@ -3,6 +3,7 @@
 apt-get update
 
 apt-get install -y \
+  ansible \
   apt-transport-https \
   build-essential \
   ca-certificates \
