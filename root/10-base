@@ -6,26 +6,19 @@ apt-get install -y \
   apt-transport-https \
   build-essential \
   ca-certificates \
-  chromium \
   curl \
-  fonts-noto \
+  exuberant-ctags \
   gettext \
   git \
   gnupg \
   graphviz \
-  grc \
-  httpie \
-  jq \
-  libnss3-tools \
-  mycli \
+  neovim \
   openjdk-8-jdk \
   pgadmin3 \
   pgcli \
-  pwgen \
-  siege \
   software-properties-common \
   tmux \
+  tree \
   unzip \
-  uuid-runtime \
   wget \
   zip
